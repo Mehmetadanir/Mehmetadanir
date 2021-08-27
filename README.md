@@ -1,4 +1,4 @@
-i am Mehmet Adanır.I'm a 4th year electronics engineer
+I am Mehmet Adanır.I'm a 4th year electronics engineer
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehmetadanir&show_icons=true&theme=dark&locale=en&layout=compact" alt="Mehmetadanir" /></p>
 <!---
