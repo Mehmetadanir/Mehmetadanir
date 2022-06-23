@@ -1,3 +1,3 @@
-### Merhabalar,
+### Hi There,
 
-Ben Mehmet Adanir,Elektronik Muhendsiyim.
+# My name is mehmet Adanir. I am Electronics Engineer.
